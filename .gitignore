@@ -10,7 +10,7 @@ __pycache__/
 *.pyd
 
 # Indexes — large binary files, rebuild with run_build.py
-data/indexes/
+# data/indexes/
 
 # Logs
 *.log
