@@ -20,6 +20,12 @@ sys.path.insert(0, str(ROOT))
 
 import streamlit as st
 
+try:
+    for key, value in st.secrets.items():
+        os.environ[key] = str(value)
+except Exception:
+    pass  # Running locally with .env, secrets not needed
+
 # ---------------------------------------------------------------------------
 # Page config — must be first Streamlit call
 # ---------------------------------------------------------------------------
