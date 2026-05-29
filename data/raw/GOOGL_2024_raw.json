@@ -1,0 +1,11 @@
+{
+  "company_name": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "cik": "0001652044",
+  "fiscal_year": 2024,
+  "filing_date": "2025-02-05",
+  "accession_no": "0001652044-25-000014",
+  "sector": "Other",
+  "sic_code": "7370",
+  "raw_html_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1652044&type=10-K&dateb=&owner=include&count=10"
+}

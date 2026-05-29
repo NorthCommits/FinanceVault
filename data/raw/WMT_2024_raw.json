@@ -1,0 +1,11 @@
+{
+  "company_name": "Walmart Inc.",
+  "ticker": "WMT",
+  "cik": "0000104169",
+  "fiscal_year": 2024,
+  "filing_date": "2024-03-15",
+  "accession_no": "0000104169-24-000056",
+  "sector": "Other",
+  "sic_code": "5331",
+  "raw_html_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=104169&type=10-K&dateb=&owner=include&count=10"
+}
