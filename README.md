@@ -321,7 +321,7 @@ Bi-encoders (FAISS) encode query and chunk independently. Cross-encoders run ful
 **Swapnil Bhattacharya**
 AI/GenAI Engineer · MSc Data Science, University of Birmingham
 
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile) · [PyPI](https://pypi.org/user/yourprofile)
+[GitHub](https://github.com/NorthCommits) · [LinkedIn](https://www.linkedin.com/in/swapnilaiengineer/) · [PyPI](https://pypi.org/user/swapnil-bhattacharya/)
 
 ---
 
